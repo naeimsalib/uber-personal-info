@@ -1,16 +1,7 @@
 {
-<<<<<<< HEAD
     "root": "public",
-=======
-    "root": ".",
->>>>>>> be356d9358b2245e5a22602a382abce8af263366
     "clean_urls": true,
     "routes": {
-      "/**": "index.html"
+        "/**": "index.html"
     }
-<<<<<<< HEAD
 }
-=======
-  }
->>>>>>> be356d9358b2245e5a22602a382abce8af263366
-  

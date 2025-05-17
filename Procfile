@@ -1,1 +1,1 @@
-echo "web: bin/start-nginx" > Procfile
+web: bin/start-nginx
